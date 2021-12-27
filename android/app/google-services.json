@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654163692614",
+    "project_id": "automaticatestproject",
+    "storage_bucket": "automaticatestproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654163692614:android:44536be00d51057c4d8e47",
+        "android_client_info": {
+          "package_name": "com.example.automatica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654163692614-92allhc0orru8h2qitjn3t0i0g62g22b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.automatica",
+            "certificate_hash": "143570d3e02a971eee2dc6e3be8935585ca66735"
+          }
+        },
+        {
+          "client_id": "654163692614-dvf76qmlusgm2e4qs0cq3hcfco9m5ojb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXBq2DYA8ot1kEF0T73sNSnhauynQLWlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654163692614-dvf76qmlusgm2e4qs0cq3hcfco9m5ojb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
